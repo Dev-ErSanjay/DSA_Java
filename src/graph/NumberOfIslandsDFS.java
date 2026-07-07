@@ -1,4 +1,4 @@
-package collections.graph;
+package graph;
 
 public class NumberOfIslandsDFS {
 
